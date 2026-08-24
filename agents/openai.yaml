@@ -1,0 +1,7 @@
+interface:
+  display_name: "桌面宠物 Demo 制作"
+  short_description: "规划、实现、测试和交付 Unity Windows 桌面宠物 Demo"
+  default_prompt: "Use $desktop-pet-demo to plan and build a portfolio-ready Windows desktop pet demo."
+
+policy:
+  allow_implicit_invocation: true
